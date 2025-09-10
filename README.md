@@ -8,6 +8,7 @@ This is a self implementation to get comfortable with java
 
 ```bash
 git clone https://www.github.com/NicolasSerranoGarcia/Snake-Java
+cd Snake-Java
 ```
 
 2. Compile
